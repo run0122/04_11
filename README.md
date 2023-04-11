@@ -2,9 +2,9 @@
 
 ## 1. math
 
-조도센서를 통해 값을 입력받고 Max값과 Min값을 찾는 실습을 했습니다. 조도센서를 통해서 배열에 값을 입력하고 이 배열 내에서의 Max 값과 Min값을 출력하는 프로그램을 작성하였습니다. 
+조도센서를 통해 값을 입력받고 Max값과 Min값을 찾는 실습을 했습니다. 조도센서를 통해서 배열에 값을 입력하고 이 배열 내에서의 Max 값과 Min값을 출력하는 프로그램을 작성하였습니다. photoresistor_math_chatgpt 코드입니다.
 
-비슷한 코드로는 Examples -> Analog -> Calibration를 참조할 수 있습니다.
+비슷한 코드로는 Examples -> Analog -> Calibration를 참조할 수 있습니다. photoresistor_math_practice가 그 코드이며, 5초간 센서의 최저값과 최고값을 받아서 그 이후에 들어오는 센서의 입력값들을 조율해주는 코드를 작성했습니다.
 
 ## 2. Servo
 
